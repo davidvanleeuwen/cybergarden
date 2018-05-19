@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Search.png" search="lora">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="LilyPad Battery-Connect-v11" modelIndex="7381" path="/Applications/Fritzing.app/Contents/MacOS/fritzing-parts/core/LilyPad Battery-Connect-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LilyPad Coincell-Battery-v17" modelIndex="7383" path="/Applications/Fritzing.app/Contents/MacOS/fritzing-parts/core/LilyPad Coincell-Battery-v17.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_Esplora" modelIndex="7385" path="/Applications/Fritzing.app/Contents/MacOS/fritzing-parts/core/Arduino_Esplora.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>

@@ -1,0 +1,5 @@
+{
+  "url": "YOUR_MONGODB_URL",
+  "dbName": "YOUR_MONGODB_NAME",
+  "authorization": "RANDOM_WORD_HERE"
+}
